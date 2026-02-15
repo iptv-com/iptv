@@ -21,7 +21,7 @@ Para usar no seu player favorito (VLC, IPTV Smarters, Kodi, etc.), utilize os li
 
 | Playlist | Descrição | Link |
 | :--- | :--- | :--- |
-| **Brasil Full** | Todos os canais brasileiros disponíveis. | `https://github.com/iptv-com/iptv/raw/refs/heads/main/Brazil.m3u` |
+| **Brasil Full** | Todos os canais brasileiros disponíveis. | `https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u` |
 | **Canais Abertos** | Apenas as grandes redes nacionais (FTA). | `https://github.com/SEU-USUARIO/iptv-com/raw/main/lists/abertos.m3u` |
 
 ---
