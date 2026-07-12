@@ -17,6 +17,8 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="ITVBrazil.br@SD" tvg-logo="https://i.imgur.com/35SLBz0.png" group-title="Education",ITV Brazil (720p)
 https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",MCM Pop
+http://rjcf.ofztvxv.top:8080/kang/71267133/99554
 #EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br@SD" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="General",Sertão TV (720p)
