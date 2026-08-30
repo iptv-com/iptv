@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png" group-title="General",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="General",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entertainment",Chroma TV (480p)
@@ -35,8 +33,6 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="General",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religious",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Education",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entertainment",TV Viçosa (480p)
